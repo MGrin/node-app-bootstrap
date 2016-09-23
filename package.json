@@ -2,7 +2,7 @@
   "name": "temp",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "webpack-watch": "webpack -w",
     "express-server": "nodemon --config nodemon.json app.js",
